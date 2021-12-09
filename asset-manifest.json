@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "/dgeertsen/Portfolio/website/static/css/main.8fe5614a.chunk.css",
+    "main.js": "/dgeertsen/Portfolio/website/static/js/main.70908783.chunk.js",
+    "main.js.map": "/dgeertsen/Portfolio/website/static/js/main.70908783.chunk.js.map",
+    "runtime-main.js": "/dgeertsen/Portfolio/website/static/js/runtime-main.6b323393.js",
+    "runtime-main.js.map": "/dgeertsen/Portfolio/website/static/js/runtime-main.6b323393.js.map",
+    "static/css/2.50f1239c.chunk.css": "/dgeertsen/Portfolio/website/static/css/2.50f1239c.chunk.css",
+    "static/js/2.7b9e6606.chunk.js": "/dgeertsen/Portfolio/website/static/js/2.7b9e6606.chunk.js",
+    "static/js/2.7b9e6606.chunk.js.map": "/dgeertsen/Portfolio/website/static/js/2.7b9e6606.chunk.js.map",
+    "static/js/3.8a555775.chunk.js": "/dgeertsen/Portfolio/website/static/js/3.8a555775.chunk.js",
+    "static/js/3.8a555775.chunk.js.map": "/dgeertsen/Portfolio/website/static/js/3.8a555775.chunk.js.map",
+    "index.html": "/dgeertsen/Portfolio/website/index.html",
+    "static/css/2.50f1239c.chunk.css.map": "/dgeertsen/Portfolio/website/static/css/2.50f1239c.chunk.css.map",
+    "static/css/main.8fe5614a.chunk.css.map": "/dgeertsen/Portfolio/website/static/css/main.8fe5614a.chunk.css.map",
+    "static/js/2.7b9e6606.chunk.js.LICENSE.txt": "/dgeertsen/Portfolio/website/static/js/2.7b9e6606.chunk.js.LICENSE.txt",
+    "static/media/font-awesome.min.css": "/dgeertsen/Portfolio/website/static/media/fontawesome-webfont.f691f37e.woff"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.6b323393.js",
+    "static/css/2.50f1239c.chunk.css",
+    "static/js/2.7b9e6606.chunk.js",
+    "static/css/main.8fe5614a.chunk.css",
+    "static/js/main.70908783.chunk.js"
+  ]
+}
