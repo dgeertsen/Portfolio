@@ -41,7 +41,7 @@ class Navbar extends React.Component {
             </a>
           </li>
           <li>
-            <a href="#">
+            <a href="https://github.com/dgeertsen">
               <div>
                 <FontAwesomeIcon icon={faGithub} />
               </div>
@@ -49,7 +49,7 @@ class Navbar extends React.Component {
             </a>
           </li>
           <li>
-            <a href="#">
+            <a href="https://www.linkedin.com/in/devongeertsen/">
               <div>
                 <FontAwesomeIcon icon={faLinkedin} />
               </div>
