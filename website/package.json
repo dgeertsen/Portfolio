@@ -1,6 +1,6 @@
 {
   "homepage": "https://github.com/dgeertsen/Portfolio",
-  "name": "website",
+  "name": "Portfolio",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
@@ -25,7 +25,6 @@
     "build": "react-scripts build",
     "test": "react-scripts test",
     "eject": "react-scripts eject"
-
   },
   "eslintConfig": {
     "extends": [
