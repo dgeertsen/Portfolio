@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on **building a portfolio website.**
 
-- 🌱 I’m currently learning **react.js and React Native.**
+- 🌱 I’m currently learning **react.js and AWS.**
 
 - 💬 Ask me about **RPGIV & CL.**
 
