@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Devon</h1>
 <h3 align="center">A passionate developer from Montana</h3>
 
-- 🔭 I’m currently working on **building a portfolio website.**
+- 🔭 I’m currently attending on **Montana Code School, Back-End Software Development Bootcamp.**
 
 - 🌱 I’m currently learning **react.js and AWS.**
 
