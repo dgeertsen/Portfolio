@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently attending **Montana Code School, Back-End Software Development Bootcamp.**
 
-- 🌱 I’m currently learning **react.js and AWS.**
+- 🌱 I’m currently learning **Java, SQL and SpringBoot**
 
 - 💬 Ask me about **RPGIV & CL.**
 
@@ -28,7 +28,7 @@
         height="40"
       />
     </a>
-    <a href="https://www.java.com" target="_blank" rel="noreferrer">
+    <!--<a href="https://www.java.com" target="_blank" rel="noreferrer">
       <img
         src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg"
         alt="java"
@@ -40,7 +40,7 @@
       href="https://developer.mozilla.org/en-US/docs/Web/JavaScript"
       target="_blank"
       rel="noreferrer"
-    >
+    >-->
       <img
         src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg"
         alt="javascript"
@@ -70,7 +70,7 @@
           height="40"
         />
       </a>
-      <a href="https://www.python.org" target="_blank" rel="noreferrer">
+      <!--<a href="https://www.python.org" target="_blank" rel="noreferrer">
         <img
           src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg"
           alt="python"
@@ -84,7 +84,7 @@
           alt="react"
           width="40"
           height="40"
-        />
+        />-->
       </a>
     </a>
   </p>
