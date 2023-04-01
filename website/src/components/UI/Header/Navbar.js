@@ -1,18 +1,18 @@
-import React from "react";
-import "./Navbar.css";
+import React from "react"
+import "./Navbar.css"
 
-import { FontAwesomeIcon } from "@fortawesome/react-fontawesome";
+import { FontAwesomeIcon } from "@fortawesome/react-fontawesome"
 import {
   faCoffee,
   faHome,
   faEnvelope,
   faBriefcase,
-} from "@fortawesome/free-solid-svg-icons";
+} from "@fortawesome/free-solid-svg-icons"
 import {
   faGithub,
   faLinkedin,
   faReadme,
-} from "@fortawesome/free-brands-svg-icons";
+} from "@fortawesome/free-brands-svg-icons"
 
 class Navbar extends React.Component {
   render() {
@@ -74,8 +74,8 @@ class Navbar extends React.Component {
           </li>
         </ul>
       </div>
-    );
+    )
   }
 }
 
-export default Navbar;
+export default Navbar
