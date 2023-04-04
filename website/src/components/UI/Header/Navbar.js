@@ -21,7 +21,7 @@ class Navbar extends React.Component {
         <ul id="nav">
           <div>
             <title>
-              DEVON GEERTSEN <FontAwesomeIcon icon={faCoffee} />
+              DEVON yrdy GEERTSEN <FontAwesomeIcon icon={faCoffee} />
             </title>
           </div>
           <li>
