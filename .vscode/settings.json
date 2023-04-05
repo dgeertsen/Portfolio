@@ -1,3 +1,4 @@
 {
-  "cSpell.words": ["fontawesome", "fortawesome", "GEERTSEN"]
+  "cSpell.words": ["fontawesome", "fortawesome", "GEERTSEN"],
+  "cSpell.ignoreWords": ["predeploy"]
 }

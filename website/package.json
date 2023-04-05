@@ -1,6 +1,6 @@
 {
-  "homepage": "https://github.com/dgeertsen/Portfolio/website",
-  "name": "Portfolio",
+  "homepage": "https://github.com/dgeertsen/Portfolio/",
+  "name": "portfolio",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
