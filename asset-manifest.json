@@ -1,26 +1,20 @@
 {
   "files": {
-    "main.css": "/Portfolio/static/css/main.8fe5614a.chunk.css",
-    "main.js": "/Portfolio/static/js/main.70908783.chunk.js",
-    "main.js.map": "/Portfolio/static/js/main.70908783.chunk.js.map",
-    "runtime-main.js": "/Portfolio/static/js/runtime-main.1c9f9475.js",
-    "runtime-main.js.map": "/Portfolio/static/js/runtime-main.1c9f9475.js.map",
-    "static/css/2.a2b8be3e.chunk.css": "/Portfolio/static/css/2.a2b8be3e.chunk.css",
-    "static/js/2.7b9e6606.chunk.js": "/Portfolio/static/js/2.7b9e6606.chunk.js",
-    "static/js/2.7b9e6606.chunk.js.map": "/Portfolio/static/js/2.7b9e6606.chunk.js.map",
-    "static/js/3.8a555775.chunk.js": "/Portfolio/static/js/3.8a555775.chunk.js",
-    "static/js/3.8a555775.chunk.js.map": "/Portfolio/static/js/3.8a555775.chunk.js.map",
-    "index.html": "/Portfolio/index.html",
-    "static/css/2.a2b8be3e.chunk.css.map": "/Portfolio/static/css/2.a2b8be3e.chunk.css.map",
-    "static/css/main.8fe5614a.chunk.css.map": "/Portfolio/static/css/main.8fe5614a.chunk.css.map",
-    "static/js/2.7b9e6606.chunk.js.LICENSE.txt": "/Portfolio/static/js/2.7b9e6606.chunk.js.LICENSE.txt",
-    "static/media/font-awesome.min.css": "/Portfolio/static/media/fontawesome-webfont.f691f37e.woff"
+    "main.css": "/dgeertsen/Portfolio/website/static/css/main.4c7ea0aa.css",
+    "main.js": "/dgeertsen/Portfolio/website/static/js/main.49b80878.js",
+    "static/js/787.44b8887f.chunk.js": "/dgeertsen/Portfolio/website/static/js/787.44b8887f.chunk.js",
+    "static/media/fontawesome-webfont.svg?v=4.7.0": "/dgeertsen/Portfolio/website/static/media/fontawesome-webfont.c1e38fd9e0e74ba58f7a.svg",
+    "static/media/fontawesome-webfont.eot": "/dgeertsen/Portfolio/website/static/media/fontawesome-webfont.8b43027f47b20503057d.eot",
+    "static/media/fontawesome-webfont.ttf?v=4.7.0": "/dgeertsen/Portfolio/website/static/media/fontawesome-webfont.1e59d2330b4c6deb84b3.ttf",
+    "static/media/fontawesome-webfont.woff?v=4.7.0": "/dgeertsen/Portfolio/website/static/media/fontawesome-webfont.f691f37e57f04c152e23.woff",
+    "static/media/fontawesome-webfont.woff2?v=4.7.0": "/dgeertsen/Portfolio/website/static/media/fontawesome-webfont.20fd1704ea223900efa9.woff2",
+    "index.html": "/dgeertsen/Portfolio/website/index.html",
+    "main.4c7ea0aa.css.map": "/dgeertsen/Portfolio/website/static/css/main.4c7ea0aa.css.map",
+    "main.49b80878.js.map": "/dgeertsen/Portfolio/website/static/js/main.49b80878.js.map",
+    "787.44b8887f.chunk.js.map": "/dgeertsen/Portfolio/website/static/js/787.44b8887f.chunk.js.map"
   },
   "entrypoints": [
-    "static/js/runtime-main.1c9f9475.js",
-    "static/css/2.a2b8be3e.chunk.css",
-    "static/js/2.7b9e6606.chunk.js",
-    "static/css/main.8fe5614a.chunk.css",
-    "static/js/main.70908783.chunk.js"
+    "static/css/main.4c7ea0aa.css",
+    "static/js/main.49b80878.js"
   ]
 }
