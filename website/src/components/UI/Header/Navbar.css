@@ -42,6 +42,36 @@ a div {
   position: absolute;
 }
 
+/* Responsive styles */
+@media screen and (max-width: 768px) {
+  /* Hide the navigation links on small screens */
+  #nav li {
+    display: none;
+  }
+
+  /* Show the navigation links when the hamburger menu is clicked */
+  #nav li.show {
+    display: block;
+  }
+
+  /* Hamburger menu icon */
+  #nav .icon {
+    display: block;
+    float: right;
+    font-size: 28px;
+    color: #17627e;
+    padding: 5px;
+    cursor: pointer;
+  }
+
+  /* Styling for the links in the expanded hamburger menu */
+  #nav li.show a {
+    display: block;
+    text-align: center;
+    border-top: 1px solid #17627e;
+  }
+}
+
 /*Colors Scheme */
 /* #5bccf6
 #fcde67
